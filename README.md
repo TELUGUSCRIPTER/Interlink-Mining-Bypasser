@@ -13,6 +13,38 @@
 
 ---
 
+## 🌐 Live Demo — Try It Now!
+
+Want to see the panel in action **without setting it up yourself?** A live hosted instance is available for everyone to try:
+
+<div align="center">
+
+### 🔗 **[Open Interlink Panel (Live)](http://13.62.94.74/InterLink/)**
+
+</div>
+
+**Demo Login Credentials:**
+
+| Field | Value |
+|-------|-------|
+| **Panel URL** | [http://13.62.94.74/InterLink/](http://13.62.94.74/InterLink/) |
+| **Username** | `demouser` |
+| **Password** | `demouser1` |
+
+> **How to login:** Go to the panel link above → Enter the username and password → You'll have full access to the dashboard where you can add your Interlink accounts, run the miner, view analytics, and more.
+
+### 🌐 Proxy Manager
+
+If you have proxies (HTTP/HTTPS/SOCKS4/SOCKS5), you can add them and assign proxy support to your specific Interlink accounts for better IP isolation and anti-detection:
+
+| Feature | Link |
+|---------|------|
+| **Proxy Manager** | [http://13.62.94.74/InterLink/proxy/](http://13.62.94.74/InterLink/proxy/) |
+
+> **How it works:** Navigate to the Proxy Manager → Add your proxy details (host, port, type, credentials) → Test the connection → Assign the proxy to any of your connected Interlink accounts. Each account will then route its mining requests through its assigned proxy, ensuring unique IP addresses per account.
+
+---
+
 ## 📌 What Is This?
 
 Interlink Mining Bypasser is a **self-hosted PHP web panel** that fully automates the Interlink Labs token (ITLG) mining lifecycle. Instead of manually opening the app every 4 hours to claim mining rewards, this tool does everything for you — 24/7, across multiple accounts simultaneously.
