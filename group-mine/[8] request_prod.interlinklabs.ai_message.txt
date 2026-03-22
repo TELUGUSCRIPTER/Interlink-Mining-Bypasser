@@ -1,0 +1,20 @@
+POST /api/v1/group-mining/accept-invite-group h2
+host: prod.interlinklabs.ai
+accept: */*
+version: 4.0.2
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dpbklkIjoiODY4ODg1ODIyNyIsImlhdCI6MTc2NzE1MDMxNCwiZXhwIjoxNzY5NzQyMzE0LCJhdWQiOiJpbnRlcmxpbmstdXNlciIsImlzcyI6ImludGVybGluayJ9.is6ozAQJB7AeeYmB70Y-ViiEyxm0B1BHkVu899P5yNY
+x-date: 1767251164484
+x-signature: wWCxuzutXYEdHrDnFpyK2dpKqE6Q7LbQCtiA2zBjf44=
+x-content-hash: SHNRvoXvfuyqmktJxw+Jsn7i9cXZjicTLbwbnNzc/fk=
+x-unique-id: d1ef45f2076a25ef
+x-model: Redmi Note 5
+x-brand: xiaomi
+x-system-name: Android
+x-device-id: d1ef45f2076a25ef
+x-bundle-id: org.ai.interlinklabs.interlinkId
+content-type: application/json
+content-length: 17
+accept-encoding: gzip
+user-agent: okhttp/4.12.0
+
+{"code":"JSGNCK"}

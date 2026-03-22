@@ -1,0 +1,53 @@
+# ========================
+# Data & User Files
+# ========================
+data/accounts.json
+data/tokens.json
+data/remember_tokens.json
+data/proxies.json
+data/visitors.txt
+data/logs/
+data/users/
+
+# ========================
+# Configuration (contains secrets)
+# ========================
+api/config.php
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# OS Files
+# ========================
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ========================
+# Debug / Test files
+# ========================
+debug_accounts.php
+test_delete.php
+test_delete_v2.php
+
+# ========================
+# Archives & Backups
+# ========================
+*.zip
+*.js.old
+proxy/api/delete_debug.log
+api/debug_cronicle.php
+group-mine/[8]*
+
+# ========================
+# PHP
+# ========================
+vendor/
+composer.lock
